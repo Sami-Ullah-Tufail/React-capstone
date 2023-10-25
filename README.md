@@ -15,6 +15,7 @@
   - [Setup](#setup)
   - [Available Scripts](#available-scripts)
 - [👥 Authors](#author)
+- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [🙏 Acknowledgements](#acknowledgments)
 - [📝 License](#license)
@@ -88,6 +89,15 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 - GitHub: [@Sami Ullah](https://github.com/Sami-Ullah-Tufail)
 
+## 🔭 Future Features <a name="future-features"></a>
+
+> Describe 1 - 3 features you will add to the project.
+
+- [ ] **[Applying advanced filtering]**
+- [ ] **[Making native app using Reach-Native]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## Contributing 
 
@@ -104,3 +114,4 @@ Feel free to check the [issues page](../../issues/).
 ## License 
 
 This project is [MIT](./LICENSE) licensed.
+<a name="readme-top"></a>
