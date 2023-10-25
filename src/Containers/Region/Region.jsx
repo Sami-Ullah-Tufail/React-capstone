@@ -25,7 +25,7 @@ const Region = () => {
 
   useEffect(() => {
     dispatch(searchCountryBy(query));
-  }, [query]);
+  }, [query, dispatch]);
 
   const handleChange = (e) => {
     setQuery(e.target.value);
