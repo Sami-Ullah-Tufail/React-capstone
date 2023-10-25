@@ -28,7 +28,7 @@
 
 ## Live Demo 
 
-- [Live Demo Link](https://ouasamine.github.io/air-quality/)
+- [Live Demo Link](https://airqualityindexbysami.netlify.app/)
 
 
 ## Getting Started 
