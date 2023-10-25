@@ -1,8 +1,14 @@
+<div align="center">
 
+  <img src="src/Assets/Images/Screenshot 2023-10-25 at 10.34.46 PM.png" alt="demo" width="140"  height="auto" />
+  <br/>
+
+</div>
 # 📗 Table of Contents
 
 - [📖 About the Project](#air-quality-index )
   - [🛠 Built With](#built-with)
+  - [🚀 Live-website](#live)
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
@@ -26,9 +32,14 @@
   <li><a href="https://www.ecma-international.org/">JavaScript</a></li>
 </ul>
 
-## Live Demo 
+## Live
 
-- [Live Demo Link](https://airqualityindexbysami.netlify.app/)
+- [Live website link](https://airqualityindexbysami.netlify.app/)
+
+## Live demo
+
+- [Live Demo Link](https://www.loom.com/share/b58d6d23535642718dced253606ea01b?sid=cd8a0c52-61da-4a9c-b8f6-7b775d3ac02e)
+
 
 
 ## Getting Started 
