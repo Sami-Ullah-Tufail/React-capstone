@@ -10,6 +10,7 @@
   - [🛠 Built With](#built-with)
   - [🚀 Live-website](#live)
   - [🚀 Live Demo](#live-demo)
+  - [Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Setup](#setup)
@@ -40,6 +41,13 @@
 ## Live demo
 
 - [Live Demo Link](https://www.loom.com/share/b58d6d23535642718dced253606ea01b?sid=cd8a0c52-61da-4a9c-b8f6-7b775d3ac02e)
+
+### Key Features <a name="key-features"></a>
+
+
+- **[It is a SPA]**
+- **[Uses realtime data]**
+- **[It is a PWA]**
 
 
 
@@ -91,8 +99,6 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-
 - [ ] **[Applying advanced filtering]**
 - [ ] **[Making native app using Reach-Native]**
 
@@ -114,4 +120,3 @@ Feel free to check the [issues page](../../issues/).
 ## License 
 
 This project is [MIT](./LICENSE) licensed.
-<a name="readme-top"></a>
