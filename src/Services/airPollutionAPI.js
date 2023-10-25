@@ -1,6 +1,6 @@
 import FetchRequest from '../Helpers/FetchRequest';
 
-const API_KEY = `&appid=${process.env.REACT_APP_AIR_POLLUTION_API_KEY}`;
+const API_KEY = `&appid=bb05f364ddebe7aa23d9788a1411ada5`;
 const URL = 'https://api.openweathermap.org/data/2.5/';
 const AIR_POLLUTION_ENDPOINT = 'air_pollution?';
 

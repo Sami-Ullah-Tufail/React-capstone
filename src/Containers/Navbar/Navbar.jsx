@@ -31,15 +31,15 @@ const Navbar = () => {
           </styled.LinkItem>
         </styled.LinksList>
         <styled.SocialContainer>
-          <styled.MadeBy>Made by Andres Agudelo</styled.MadeBy>
+          <styled.MadeBy>Made by Sami Ullah Tufail</styled.MadeBy>
           <styled.SocialList>
             <li>
-              <a href="https://github.com/anagudelogu/">
+              <a href="https://github.com/Sami-Ullah-Tufail/">
                 <styled.GitHubIcon />
               </a>
             </li>
             <li>
-              <a href="https://www.linkedin.com/in/aagst/">
+              <a href="https://www.linkedin.com/in/sami-ullah-42a4231aa/">
                 <styled.LinkedinIcon />
               </a>
             </li>
