@@ -46,7 +46,7 @@
 
 
 - **[It is a SPA]**
-- **[Uses realtime data]**
+- **[Uses Real Api data]**
 - **[It is a PWA]**
 
 
