@@ -7,7 +7,7 @@ const AirPollutionApp = () => (
     <header>
       <Navbar />
     </header>
-    <main>
+    <main className='smai ulla' >
       <Outlet />
     </main>
   </>
